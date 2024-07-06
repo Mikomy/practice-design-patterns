@@ -1,4 +1,6 @@
-package org.example;
+package org.example.builderPattern;
+
+import org.example.builderPattern.Person;
 
 import java.time.LocalDate;
 
